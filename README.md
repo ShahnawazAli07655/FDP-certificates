@@ -20,7 +20,7 @@ This repository contains certificates from:
   Here are the certificates I’ve uploaded so far (click to view/download):  
 
 - [Orientation and Sensitization program](/SHAH_NAWAZ_ALI.pdf)  
-- [FDP on Generative AI](/Generative_AI.pdf)
+- [FDP on Generative AI](/Generative_AI_FDP.pdf)
 
 ## 🎯 Purpose
 Maintaining a structured record of continuous professional development for academic and verification purposes.
