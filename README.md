@@ -21,6 +21,7 @@ This repository contains certificates from:
 
 - [Orientation and Sensitization program](/SHAH_NAWAZ_ALI.pdf)  
 - [FDP on Generative AI](/Generative_AI_FDP.pdf)
+- [FDP on future-ready teaching practices](/FDP%20certificate%20IIT%20Mandi.pdf)
 
 ## 🎯 Purpose
 Maintaining a structured record of continuous professional development for academic and verification purposes.
